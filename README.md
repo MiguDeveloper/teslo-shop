@@ -11,3 +11,9 @@ docker-compose up -d
 ```
 
 2. Modificar el archivo .env.template y renombrarlo a .env
+
+3. Levantar proyecto modo desarrollo
+
+```
+npm run start:dev
+```
